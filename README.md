@@ -13,3 +13,20 @@ libraries to be installed:-
 Note: The dataset and python file should be present in same folder. Path of the folder should be entered correctly in the "DATA_URL" 
 
 To run the program just use the command "streamlit run web_app.py" in the command line.
+
+Below are the screensots of my Data Science Web App
+
+![image](https://user-images.githubusercontent.com/43824563/85855135-63e29e80-b7d3-11ea-830d-72df7f57687c.png)
+
+![2](https://user-images.githubusercontent.com/43824563/85855218-8aa0d500-b7d3-11ea-9a89-ce635cb25217.PNG)
+
+
+![3](https://user-images.githubusercontent.com/43824563/85855228-8eccf280-b7d3-11ea-8477-9da47d10070d.PNG)
+
+
+![4](https://user-images.githubusercontent.com/43824563/85855234-91c7e300-b7d3-11ea-9ef2-c45b1f74ad01.PNG)
+
+
+![5](https://user-images.githubusercontent.com/43824563/85855243-942a3d00-b7d3-11ea-9d24-d6a5d08493b1.PNG)
+
+
