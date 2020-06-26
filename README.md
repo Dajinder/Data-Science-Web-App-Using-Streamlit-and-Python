@@ -13,5 +13,3 @@ libraries to be installed:-
 Note: The dataset and python file should be present in same folder. Path of the folder should be entered correctly in the "DATA_URL" 
 
 To run the program just use the command "streamlit run web_app.py" in the command line.
-
-
