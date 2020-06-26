@@ -6,7 +6,7 @@ import plotly.express as px
 
 # path of the dataset which should be present in the same folder as the python file
 DATA_URL = (
-    r"C:\Users\DELL PC\Desktop\web_app\`Motor_Vehicle_Collisions_-_Crashes.csv`"
+    r"C:\Users\DELL PC\Desktop\web_app\Motor_Vehicle_Collisions_-_Crashes.csv"
 )
 
 st.title("Motor Vehicle collision in New York City 🗽 💥 🚗") #provide the heading
